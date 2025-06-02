@@ -1,6 +1,6 @@
 # RTL-SDR Gas Meter Monitor for Home Assistant
 
-A Python script that reads gas meter data using RTL-SDR and rtlamr, then sends it to Home Assistant via MQTT with automatic sensor discovery and system health monitoring.
+A Python script that reads gas meter data using RTL-SDR and rtlamr, then sends it to Home Assistant via MQTT with automatic sensor discovery and system health monitoring. I installed on a raspberry PI and configured it as a service to run at boot. 
 
 ## Features
 
